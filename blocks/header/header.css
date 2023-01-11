@@ -1,0 +1,15 @@
+.header {
+  margin: 2.1875% 5% 0 5%;
+  width: 90%;
+  max-height: 52px;
+  min-height: 52px;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+}
+@media screen and (max-width: 320px) {
+  .header {
+    max-height: 42px;
+    min-height: 42px;
+  }
+}

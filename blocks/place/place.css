@@ -1,0 +1,25 @@
+.place {
+  margin: 8.13% 0 0 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: minmax(min-content, max-content);
+  column-gap: 4.06%;
+}
+@media screen and (max-width: 1024px) {
+  .place {
+    grid-template-columns: minmax(440px, 1fr);
+  }
+}
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: minmax(340px, 1fr);
+  }
+}
+@media screen and (max-width: 700px) {
+  .place {
+    width: 100%;
+    margin: 8.13% 0 0 0;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}

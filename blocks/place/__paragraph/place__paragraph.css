@@ -23,4 +23,7 @@
     grid-column: 1;
     grid-row: auto;
   }
+  .place__paragraph:last-child {
+    margin: 0 5% 7.85% 5%;
+  }
 }

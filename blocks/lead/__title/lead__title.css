@@ -14,12 +14,7 @@
 }
 @media screen and (max-width: 420px) {
   .lead__title {
-    font-size: 48px;
-  }
-}
-@media screen and (max-width: 360px) {
-  .lead__title {
-    font-size: 40px;
+    font-size: 44px;
   }
 }
 @media screen and (max-width: 320px) {

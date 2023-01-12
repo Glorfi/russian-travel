@@ -5,7 +5,7 @@
 
 ## Технологии
 - Адаптивная верстка;
-- Grid lay-put
+- Grid lay-out
 - Flex-box
 - Media запросы
 

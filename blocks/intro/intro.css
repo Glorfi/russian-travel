@@ -2,7 +2,7 @@
   margin-top: 7.1876%;
   margin-left: 10.75%;
   margin-right: auto;
-  width: 59.3%;
+  width: 53.9%;
 }
 @media screen and (max-width: 1024px) {
   .intro {
@@ -19,6 +19,5 @@
 @media screen and (max-width: 320px) {
   .intro {
     margin-left: 5%;
-    margin-right: 5%;
   }
 }

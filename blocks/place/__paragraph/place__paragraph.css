@@ -1,7 +1,8 @@
 .place__paragraph {
   grid-column: 2;
+  display: block;
   margin: 0 0 26px 0;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -13,10 +14,9 @@
 @media screen and (max-width: 768px) {
   .place__paragraph {
     font-size: 16px;
-    line-height: 163%;
   }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 680px) {
   .place__paragraph {
     width: 90%;
     margin: 0 5% 7.85% 5%;
@@ -24,6 +24,6 @@
     grid-row: auto;
   }
   .place__paragraph:last-child {
-    margin: 0 5% 7.85% 5%;
+    margin: 0 5% 0 5%;
   }
 }

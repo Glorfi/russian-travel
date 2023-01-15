@@ -1,10 +1,12 @@
 .footer {
-  width: 90%;
+  width: 92.5%;;
   min-height: 18px;
   margin: 7.1876% auto 1.875% auto;
+  display: flex;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 680px) {
   .footer {
     margin: 20% 0 7.5% 5%;
+    flex-direction: column;
   }
 }

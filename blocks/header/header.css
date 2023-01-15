@@ -11,4 +11,10 @@
     width: 90.625%;
   }
 }
+@media screen and (max-width: 320px) {
+  .header {
+    width: 90%;
+    margin-top: 5%;
+  }
+}
 

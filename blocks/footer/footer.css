@@ -4,6 +4,20 @@
   margin: 7.1876% auto 1.875% auto;
   display: flex;
 }
+@media screen and (max-width: 1024px) {
+  .footer {
+    width: 90.625%;
+    margin-top: 8.984375%;
+    margin-bottom: 2.34375%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .footer {
+    width: 93.75%;
+    margin-top: 11.4583%;
+    margin-bottom: 3.125%;
+  }
+}
 @media screen and (max-width: 680px) {
   .footer {
     margin: 20% 0 7.5% 5%;

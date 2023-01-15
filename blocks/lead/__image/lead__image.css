@@ -2,3 +2,8 @@
   margin-top: 6.50406%;
   width: 100%;
 }
+@media screen and (max-width: 320px) {
+  .lead__image {
+    margin-top: 12.5%;
+  }
+}

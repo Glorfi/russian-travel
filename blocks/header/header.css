@@ -1,7 +1,7 @@
 .header {
   margin: 2.1875% auto 0 auto;
   width: 92.5%;
-  max-height: 52px;
+  min-height: 52px;
   display: flex;
   justify-content: flex-end;
   align-content: center;
@@ -9,6 +9,12 @@
 @media screen and (max-width: 1024px) {
   .header {
     width: 90.625%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .header {
+    margin-top: 3.645833333333333%;
+    width: 93.75%;
   }
 }
 @media screen and (max-width: 320px) {

@@ -1,11 +1,11 @@
 .place__website {
   grid-column: 2;
-  margin-bottom: 4.89%;
+  margin-bottom: 10.4348%;
   align-self: end;
 }
 @media screen and (max-width: 1024px) {
   .place__website {
-    margin-bottom: 10.91%;
+    margin-bottom: 10.90909090909091%;
   }
 }
 @media screen and (max-width: 768px) {

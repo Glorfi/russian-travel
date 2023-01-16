@@ -1,13 +1,13 @@
 .intro {
   margin-top: 7.1876%;
-  margin-left: 10.75%;
+  margin-left: 11.5625%;
   margin-right: auto;
   width: 53.90625%;
 }
 @media screen and (max-width: 1024px) {
   .intro {
     margin-top: 8.98%;
-    margin-left: 5%;
+    margin-left: 4.6875%;
     width: 67.3828125%;
   }
 }
@@ -15,12 +15,12 @@
   .intro {
     margin-top: 11.4583%;
     margin-left: auto;
-    margin-right: auto;
     width: 93.75%;
   }
 }
 @media screen and (max-width: 320px) {
   .intro {
+    margin-top: 20%;
     width: 90%;
   }
 }
